@@ -1,0 +1,1 @@
+Core Idea :Create a fun, interactive, and educational game where children learn essential skills (e.g., math, languages, science) through puzzles, quizzes, and games.

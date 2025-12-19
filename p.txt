@@ -1,0 +1,5 @@
+Technology Stack:
+AI: Adaptive learning paths and content optimization.
+Unity/Unreal Engine: Immersive and interactive user interface design.
+Cloud Backend: Secure storage of progress data and parental insights.
+Compliance Tools: COPPA/GDPR-compliant features for safe and secure experiences.

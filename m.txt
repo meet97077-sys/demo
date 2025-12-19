@@ -1,0 +1,10 @@
+escribe your Technology stack here:
+
+  Frontend Development: HTML5/CSS3, JavaScript (React.js)
+Backend Development: Python (Django/Flask), Node.js
+Game Development: C# (Unity), Blueprint Visual Scripting (Unreal Engine)
+Database Management: PostgreSQL, MongoDB
+Mobile App Development: Flutter or React Native for cross-platform compatibility (iOS, Android)
+
+
+
