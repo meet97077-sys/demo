@@ -1,2 +1,8 @@
 D:\>git clone https://github.com/meet97077-sys/demo.git
 D:\>cd demo
+D:\demo>code .
+D:\demo>git add .
+D:\demo>git commit -m"5 files created"
+git config --global user.email "meet97077@gmail.com"
+git config --global user.name "meet97077-sys"
+D:\demo>git push

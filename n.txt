@@ -1,0 +1,2 @@
+Frontend Development: HTML5/CSS3, JavaScript (React.js)
+Backend Development: Python (Django/Flask), Node.js
